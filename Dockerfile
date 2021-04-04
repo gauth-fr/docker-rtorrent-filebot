@@ -1,6 +1,6 @@
-FROM crazymax/rtorrent-rutorrent:latest
+FROM crazymax/rtorrent-rutorrent:3.10-0.9.8-0.13.8
 
-ARG FILEBOT_VER=4.9.1
+ARG FILEBOT_VER=4.9.3
 
 ENV FILEBOT_LICENSE None
 
